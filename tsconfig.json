@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    /* Diretórios */
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    /* Ambiente */
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+
+    /* Mapas e declarações */
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    /* Type Checking */
+    "strict": true
+  }
+}
